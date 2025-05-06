@@ -1,12 +1,12 @@
 name: "."
-title: "Gender studies digital learning portal"
+title: "Home"
 description: |
   Gender studies digital learning portal
 output_dir: "docs"
 theme: our_theme.css
 navbar:
   right:
-    - text: "Home"
+    - text: "Advocacy"
       href: index.html
     - text: "About"
       href: about.html
