@@ -2,40 +2,19 @@
 title: "Gender studies digital learning portal"
 image: "logo.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://x.com/KT_P11?t=r4efL2BfqEi4pqg0EiahkA&s=09 target ='_blank'"
+  - label: '<i class="fab fa-facebook"></i> Facebook'
+    url: "https://www.facebook.com/jeffrey.stotomas.7 target ='_blank'  "
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:stotomasjeffreyryan@gmail.com"
+    
 output:
   postcards::trestles
 site: distill::distill_website
 ---
  
-## Bio
+## About to this website
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+This advocacy website serves as a central hub dedicated to fostering understanding and promoting inclusivity across the gender spectrum. It's a space where you can find a diverse collection of advocacy articles, informative videos, and other engaging content, all aimed at educating visitors about the nuances of gender identity and expression. By bringing these resources together, the website strives to empower individuals with knowledge, encourage respectful dialogue, and build a more equitable society for people of all genders.
 
-## Education
-
-**Massachusetts Institute of Technology** | Cambridge, MA
-
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
-
-## Experience
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017

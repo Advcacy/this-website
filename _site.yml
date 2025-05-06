@@ -3,6 +3,7 @@ title: "Gender studies digital learning portal"
 description: |
   Gender studies digital learning portal
 output_dir: "docs"
+theme: our_theme.css
 navbar:
   right:
     - text: "Home"
