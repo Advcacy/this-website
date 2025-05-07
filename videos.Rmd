@@ -1,0 +1,36 @@
+---
+title: "Recommended Videos Advocacies"
+
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+Videos are an accessible and impactful way to learn about gender advocacy. Through storytelling, expert talks, and personal testimony, they provide a dynamic introduction to key gender issues and inspire thoughtful reflection. These recommended videos offer compelling explorations of gender topics:
+
+# "The Urgency of Intersectionality" by Kimberlé Crenshaw
+
+- <a href="https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality" target="_blank">"The Urgency of Intersectionality" by Kimberlé Crenshaw:</a> Explains how overlapping identities shape discrimination.
+
+# "Understanding Gender" by Ash Hardell
+
+- <a href="https://youtu.be/rjdwaiG-Glc?si=T6BoVQqoVywmgnvB" target="_blank">"Understanding Gender" by Ash Hardell:</a> A YouTube series that breaks down gender identity and expression.
+
+# "Laverne Cox: Ain't I a Woman?"
+
+- <a href="https://youtu.be/EJXEEVh_1sQ?si=gWgWvYI_apAUO2-g" target="_blank">"We Should All Be Feminists" by Chimamanda Ngozi Adichie: </a> Advocates for universal gender equality.
+
+# "Beyond the Gender Binary" by Alok Vaid-Menon
+
+- <a href="https://youtu.be/6p-uYWKv5tg?si=ENaL74R6h_rc0k8r" target="_blank">"Beyond the Gender Binary" by Alok Vaid-Menon: </a>  Pushes the boundaries of traditional gender categories. 
+
+
+

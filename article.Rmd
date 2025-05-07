@@ -1,0 +1,36 @@
+---
+title: "Influential Articles"
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction:
+Articles often provide concise and accessible insights into gender issues. These key writings have influenced public understanding and academic thought around gender diversity and equality:
+
+# "The Social Construction of Gender" by Judith Lorber
+
+-  <a href="https://www.researchgate.net/publication/331764683_The_Social_Construction_of_Gender">"The Social Construction of Gender" by Judith Lorber: </a> Analyzes how society creates and enforces gender roles through daily interactions and institutions.
+
+# "Doing Gender" by Candace West and Don Zimmerman:
+
+- <a href="https://www.jstor.org/stable/2787119" target="_blank">"Doing Gender" by Candace West and Don Zimmerman:</a> Analyzes how gender is enacted in daily life. 
+
+# "No One Is Born a Gender" by Anne Fausto-Sterling:
+
+- <a href="https://www.annefaustosterling.com/fields-of-inquiry/gender/" target="_blank">"No One Is Born a Gender" by Anne Fausto-Sterling:</a> "No One Is Born a Gender". Challenges binary thinking and highlights intersex experiences.
+
+# "Understanding Non-Binary People" by the National Center for Transgender Equality:
+
+- <a href="https://www.jstor.org/stable/2787119" target="_blank">"Understanding Non-Binary People" by the National Center for Transgender Equality:</a> A practical guide on non-binary identities and respect.
+
+
+
+

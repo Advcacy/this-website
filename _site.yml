@@ -8,12 +8,12 @@ navbar:
   right:
     - text: "About Genders"
       href: About-Genders.html
-    - text: "Advocacy"
+    - text: "Major Advocacies"
       menu:
         - text: "Articles"
         - href: article.html
         - text: "Videos"
         - href: videos.html
-        - text: "Blog"
-        - href: blog.html
+        - text: "Books"
+        - href: books.html
 output: distill::distill_article

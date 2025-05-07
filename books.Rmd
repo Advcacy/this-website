@@ -1,0 +1,37 @@
+---
+title: "Books"
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Indroduction
+Books are a powerful way to dive deep into the theories, histories, and personal stories that shape our understanding of gender. The following titles are widely recognized for their contributions to gender advocacy and scholarship:
+
+# "Gender Trouble" by Judith Butler
+- <a href="https://www.routledge.com/Gender-Trouble-Feminism-and-the-Subversion-of-Identity/Butler/p/book/9780415389556" target="_blank">"Gender Trouble" by Judith Butler:</a> Introduces gender performativity and challenges binary gender norms.
+
+# "Whipping Girl" by Julia Serano
+
+- <a href="https://www.juliaserano.com/whippinggirl.html" target="_blank">"Whipping Girl" by Julia Serano:</a> Combines memoir and analysis, discussing sexism and transphobia.
+
+# "The Gendered Society" by Michael Kimmel
+
+- <a href="https://xyonline.net/sites/xyonline.net/files/2019-09/Kimmel%2C%20The%20gendered%20society%20%282011%29%20Chs%201-5%20only.pdf" target="_blank">"The Gendered Society" by Michael Kimmel:</a>  Examines how gender shapes culture and social structures.
+
+# "Transgender History" by Susan Stryker
+
+- <a href="https://www.hachettebookgroup.com/titles/susan-stryker/transgender-history-second-edition/9781580056892/?lens=seal-press" target="_blank">Transgender History" by Susan Stryker: </a> A detailed history of transgender activism and progress.
+
+# "Delusions of Gender" by Cordelia Fine
+
+- <a href="https://www.goodreads.com/book/show/8031168-delusions-of-gender" target="_blank">"Delusions of Gender" by Cordelia Fine: </a> Debunks myths about biological gender differences.
+
+
