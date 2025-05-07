@@ -6,8 +6,14 @@ output_dir: "docs"
 theme: our_theme.css
 navbar:
   right:
+    - text: "About Genders"
+      href: About-Genders.html
     - text: "Advocacy"
-      href: index.html
-    - text: "About"
-      href: about.html
+      menu:
+        - text: "Articles"
+        - href: article.html
+        - text: "Videos"
+        - href: videos.html
+        - text: "Blog"
+        - href: blog.html
 output: distill::distill_article

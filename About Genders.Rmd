@@ -1,0 +1,69 @@
+---
+title: "What you need to know about genders?"
+#description: |
+ # A new article created using the Distill format.
+#author:
+ # - name: Nora Jones 
+  #  url: https://example.com/norajones
+   # affiliation: Spacely Sprockets
+    #affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# What is Gender? 
+Gender refers to the social, psychological, and cultural characteristics and behaviors that a society considers appropriate for men, women, and people of other gender identities. It is distinct from biological sex, which is based on physical attributes.
+
+- <a href="https://gender.jhpiego.org/analysistoolkit/gender-concepts-and-definitions/" target="_blank">Gender Analysis Toolkit</a>
+- <a href="https://gsdrc.org/topic-guides/gender/understanding-gender/" target="_blank">Understanding Gender</a>
+
+# Gender Identity vs. Gender Expression
+- Gender Identity is a person’s internal sense of their own gender, whether that's male, female, a blend of both, neither, or something else entirely.
+
+- Gender Expression is how a person outwardly expresses their gender identity, through clothing, behavior, hairstyles, voice, and other forms of presentation
+
+for better understanding:
+
+<iframe width="560" height="400" src="https://www.youtube.com/embed/tb9gsC3lm-E?si=-917T3vw7FBtrdDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# The Spectrum of Gender
+Gender is not binary; it exists on a spectrum. Some of the identities include:
+
+- <a href="https://youtu.be/e0QRNt1PUas?si=5U7U7It9wMr9YR-3" target="_blank">Cisgender</a>
+- <a href="https://youtu.be/MitqjSYtwrQ?si=qtN6i0sDSrdF6T4n" target="_blank">Transgender</a>
+- <a href="https://youtu.be/kVe8wpmH_lU?si=mhr5Tb-hdmgx1D4I" target="_blank">Non-binary</a>
+- <a href="https://youtu.be/Yo6_8LhHJa4?si=EVoY_Yuc3vb2ub4b" target="_blank">Genderqueer</a>
+- <a href="https://youtu.be/i6SkV6S6aMQ?si=QxX2uXHw1cOQy_jF" target="_blank">Genderfluid</a>
+- <a href="https://youtu.be/TxtEeHGfSpQ?si=eHoWuZ_d-RJnC1ty" target="_blank">Agender</a>
+
+# Respect and Awareness
+Using a person’s correct name and pronouns is a basic way to show respect. Raising awareness about gender diversity helps reduce discrimination, supports mental health, and creates inclusive environments where everyone feels valued and safe. It’s okay to ask politely and important to listen and learn.
+
+#  Common Myths and Facts
+- Myth: Gender and sex are the same.
+Fact: Gender and sex are different but related concepts.
+
+- Myth: There are only two genders.
+Fact: Many cultures recognize multiple gender identities.
+
+# How to Be an Ally
+
+- Educate yourself and others.
+
+- Respect people's identities and pronouns.
+
+- Stand up against discrimination and bias.
+
+- Support inclusive policies and spaces.
+
+We hope this page serves as a helpful guide to understanding and supporting gender diversity.
+
