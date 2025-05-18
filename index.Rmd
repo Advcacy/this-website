@@ -14,7 +14,7 @@ output:
 site: distill::distill_website
 ---
  
-# About to this website
+# About this website
 
 This advocacy website serves as a central hub dedicated to fostering understanding and promoting inclusivity across the gender spectrum. It's a space where you can find a diverse collection of advocacy articles, informative videos, and other engaging content, all aimed at educating visitors about the nuances of gender identity and expression. By bringing these resources together, the website strives to empower individuals with knowledge, encourage respectful dialogue, and build a more equitable society for people of all genders.
 

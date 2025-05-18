@@ -80,6 +80,7 @@ d-appendix {
 h1 {
   color: #C34A79;
   font-size: 36px;
+  text-align: justify;
 }
 
 .btn-outline-dark {
